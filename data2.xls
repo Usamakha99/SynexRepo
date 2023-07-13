@@ -1,0 +1,13 @@
+sku	title	mfr	td_sy	upc	weight	price	image	specs	description	longDescription	additional_images	related_Sku
+5316149	LOCREDSTRGPREMSTRG-SNAPSHOTSGBAPEAST	D284852AE52B	MST-D284852AE52B	0.00		$0.13	https://image.synnex.com/prod/ecx/resources/images/no_image.gif?_ver=7.6.41_patch.202307071230	"UNSPSC Code:43230000 , "	"Storage Locally Redundant Premium Storage - Snapshots (GB) AP East"	""		D284852AE52B,3928B4D7FFA8,65FA9E6BE6BB
+
+5316150	LOCREDSTRGSTDIO-HOTBLKBLBMIN0 APEAST	BE3F346E2B8F	MST-BE3F346E2B8F	0.00		$0.02	https://image.synnex.com/prod/ecx/resources/images/no_image.gif?_ver=7.6.41_patch.202307071230	"UNSPSC Code:43230000 , "	"Storage Locally Redundant Standard IO - Hot Block Blob (GB) min0 AP East"	""		BE3F346E2B8F,D284852AE52B,3928B4D7FFA8
+
+5316151	LOCREDSTRGSTDIO-HOTBLKBLBMIN51200 APEAST	7-BE3F346E2B8F	MST-7-BE3F346E2B8F	0.00		$0.02	https://image.synnex.com/prod/ecx/resources/images/no_image.gif?_ver=7.6.41_patch.202307071230	"UNSPSC Code:43233203 , "	"Storage Locally Redundant Standard IO - Hot Block Blob (GB) min51200 AP East"	""		7-BE3F346E2B8F,BE3F346E2B8F,D284852AE52B
+
+5316152	LOCREDSTRGSTDIO-HOTBLKBLBMIN512K APEAST	87-BE3F346E2B8F	MST-87-BE3F346E2B8F	0.00		$0.02	https://image.synnex.com/prod/ecx/resources/images/no_image.gif?_ver=7.6.41_patch.202307071230	"UNSPSC Code:43233203 , "	"Storage Locally Redundant Standard IO - Hot Block Blob (GB) min512000 AP East"	""		87-BE3F346E2B8F,7-BE3F346E2B8F,BE3F346E2B8F
+
+5316153	LOCREDSTRGSTDMNGDDISK/S10 APEAST	D5341913A106	MST-D5341913A106	0.00		$5.11	https://image.synnex.com/prod/ecx/resources/images/no_image.gif?_ver=7.6.41_patch.202307071230	"UNSPSC Code:43230000 , "	"Storage Locally Redundant Standard Managed Disk/S10 (Units) AP East"	""		D5341913A106,87-BE3F346E2B8F,7-BE3F346E2B8F
+
+5316154	LOCREDSTRGSTDMNGDDISK/S10 APS.EAST	E2F477D8AD73	MST-E2F477D8AD73	0.00		$5.11	https://image.synnex.com/prod/ecx/resources/images/no_image.gif?_ver=7.6.41_patch.202307071230	"UNSPSC Code:43230000 , "	"Storage Locally Redundant Standard Managed Disk/S10 (Units) AP Southeast"	""		E2F477D8AD73,D5341913A106,87-BE3F346E2B8F
+

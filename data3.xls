@@ -1,0 +1,5 @@
+sku	title	mfr	td_sy	upc	weight	price	image	specs	description	longDescription	additional_images	related_Sku
+5316149	LOCREDSTRGPREMSTRG-SNAPSHOTSGBAPEAST	D284852AE52B	MST-D284852AE52B	0.00		$0.13	https://image.synnex.com/prod/ecx/resources/images/no_image.gif?_ver=7.6.41_patch.202307071230	<table><tbody><tr><td>43230000</td></tr></tbody><tdclass="title">UNSPSCCode:</tdclass="title"></table>	Storage Locally Redundant Premium Storage - Snapshots (GB) AP East			D284852AE52B,20MB001TUS,20MB0027US
+
+5316150	LOCREDSTRGSTDIO-HOTBLKBLBMIN0 APEAST	BE3F346E2B8F	MST-BE3F346E2B8F	0.00		$0.02	https://image.synnex.com/prod/ecx/resources/images/no_image.gif?_ver=7.6.41_patch.202307071230	<table><tbody><tr><td>43230000</td></tr></tbody><tdclass="title">UNSPSCCode:</tdclass="title"></table>	Storage Locally Redundant Standard IO - Hot Block Blob (GB) min0 AP East			BE3F346E2B8F,D284852AE52B,20MB001TUS
+
